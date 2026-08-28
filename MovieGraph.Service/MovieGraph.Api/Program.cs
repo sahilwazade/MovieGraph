@@ -31,7 +31,8 @@ builder.Services.AddCors(options =>
     options.AddPolicy("ReactClient", policy =>
     {
         policy
-            .WithOrigins("http://localhost:5173")
+            .WithOrigins("https://movie-graph-a17occzc6-sahils-projects-65eeb38e.vercel.app", 
+                         "https://movie-graph-f93fpphtp-sahils-projects-65eeb38e.vercel.app")
             .AllowAnyHeader()
             .AllowAnyMethod();
     });
