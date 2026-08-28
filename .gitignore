@@ -1,0 +1,44 @@
+# =========================
+# .NET
+# =========================
+
+bin/
+obj/
+
+# Environment / secrets
+.env
+.env.*
+
+# User-specific Visual Studio files
+.vs/
+*.user
+*.suo
+
+# =========================
+# React / Node
+# =========================
+
+node_modules/
+dist/
+build/
+
+# React environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# =========================
+# IDE / OS
+# =========================
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+
+*.log
