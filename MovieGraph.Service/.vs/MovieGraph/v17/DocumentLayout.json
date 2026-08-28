@@ -1,0 +1,758 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.infrastructure\\repositories\\movierelationshiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|solutionrelative:moviegraph.infrastructure\\repositories\\movierelationshiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.infrastructure\\queries\\relationshipqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|solutionrelative:moviegraph.infrastructure\\queries\\relationshipqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D23DE1-28A8-449C-A0DC-A417F4E8DA09}|MovieGraph.Api\\MovieGraph.Api.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D23DE1-28A8-449C-A0DC-A417F4E8DA09}|MovieGraph.Api\\MovieGraph.Api.csproj|solutionrelative:moviegraph.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.application\\services\\movierelationshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|solutionrelative:moviegraph.application\\services\\movierelationshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.application\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|solutionrelative:moviegraph.application\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.infrastructure\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|solutionrelative:moviegraph.infrastructure\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.application\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|solutionrelative:moviegraph.application\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.application\\interfaces\\repositories\\imovierelationshiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|solutionrelative:moviegraph.application\\interfaces\\repositories\\imovierelationshiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.application\\interfaces\\services\\imovierelationshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|solutionrelative:moviegraph.application\\interfaces\\services\\imovierelationshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.application\\dtos\\movierelationshipgraphdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|solutionrelative:moviegraph.application\\dtos\\movierelationshipgraphdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.application\\dtos\\movierelationshipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|solutionrelative:moviegraph.application\\dtos\\movierelationshipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.application\\dtos\\movierelationshipnodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|solutionrelative:moviegraph.application\\dtos\\movierelationshipnodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.infrastructure\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|solutionrelative:moviegraph.infrastructure\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D23DE1-28A8-449C-A0DC-A417F4E8DA09}|MovieGraph.Api\\MovieGraph.Api.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D23DE1-28A8-449C-A0DC-A417F4E8DA09}|MovieGraph.Api\\MovieGraph.Api.csproj|solutionrelative:moviegraph.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.infrastructure\\queries\\moviequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|solutionrelative:moviegraph.infrastructure\\queries\\moviequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7635036F-0F36-4E13-85CC-470CB2FE4B67}|MovieGraph.Domain\\MovieGraph.Domain.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7635036F-0F36-4E13-85CC-470CB2FE4B67}|MovieGraph.Domain\\MovieGraph.Domain.csproj|solutionrelative:moviegraph.domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.infrastructure\\repositories\\recommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|solutionrelative:moviegraph.infrastructure\\repositories\\recommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.infrastructure\\queries\\movierecomendationqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|solutionrelative:moviegraph.infrastructure\\queries\\movierecomendationqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.infrastructure\\seed\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|solutionrelative:moviegraph.infrastructure\\seed\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.infrastructure\\seed\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|solutionrelative:moviegraph.infrastructure\\seed\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.application\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|solutionrelative:moviegraph.application\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D23DE1-28A8-449C-A0DC-A417F4E8DA09}|MovieGraph.Api\\MovieGraph.Api.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.api\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D23DE1-28A8-449C-A0DC-A417F4E8DA09}|MovieGraph.Api\\MovieGraph.Api.csproj|solutionrelative:moviegraph.api\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.infrastructure\\healthchecks\\cognodbhealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|solutionrelative:moviegraph.infrastructure\\healthchecks\\cognodbhealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|solutionrelative:moviegraph.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D23DE1-28A8-449C-A0DC-A417F4E8DA09}|MovieGraph.Api\\MovieGraph.Api.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.api\\controllers\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D23DE1-28A8-449C-A0DC-A417F4E8DA09}|MovieGraph.Api\\MovieGraph.Api.csproj|solutionrelative:moviegraph.api\\controllers\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.application\\services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|solutionrelative:moviegraph.application\\services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D23DE1-28A8-449C-A0DC-A417F4E8DA09}|MovieGraph.Api\\MovieGraph.Api.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.api\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D23DE1-28A8-449C-A0DC-A417F4E8DA09}|MovieGraph.Api\\MovieGraph.Api.csproj|solutionrelative:moviegraph.api\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.application\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|solutionrelative:moviegraph.application\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D23DE1-28A8-449C-A0DC-A417F4E8DA09}|MovieGraph.Api\\MovieGraph.Api.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.api\\moviegraph.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12D23DE1-28A8-449C-A0DC-A417F4E8DA09}|MovieGraph.Api\\MovieGraph.Api.csproj|solutionrelative:moviegraph.api\\moviegraph.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.application\\moviegraph.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|solutionrelative:moviegraph.application\\moviegraph.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.infrastructure\\moviegraph.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|solutionrelative:moviegraph.infrastructure\\moviegraph.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D23DE1-28A8-449C-A0DC-A417F4E8DA09}|MovieGraph.Api\\MovieGraph.Api.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.api\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D23DE1-28A8-449C-A0DC-A417F4E8DA09}|MovieGraph.Api\\MovieGraph.Api.csproj|solutionrelative:moviegraph.api\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.application\\interfaces\\services\\irecommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|solutionrelative:moviegraph.application\\interfaces\\services\\irecommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7635036F-0F36-4E13-85CC-470CB2FE4B67}|MovieGraph.Domain\\MovieGraph.Domain.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.domain\\moviegraph.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7635036F-0F36-4E13-85CC-470CB2FE4B67}|MovieGraph.Domain\\MovieGraph.Domain.csproj|solutionrelative:moviegraph.domain\\moviegraph.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.application\\interfaces\\repositories\\irecommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|solutionrelative:moviegraph.application\\interfaces\\repositories\\irecommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.application\\interfaces\\services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|solutionrelative:moviegraph.application\\interfaces\\services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.application\\interfaces\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|solutionrelative:moviegraph.application\\interfaces\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\Dell\\source\\repos\\MovieGraph\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.infrastructure\\persistence\\cognodbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|solutionrelative:moviegraph.infrastructure\\persistence\\cognodbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.infrastructure\\persistence\\cognodboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235D9B8E-2FA8-456C-837A-F04C35F60B8C}|MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj|solutionrelative:moviegraph.infrastructure\\persistence\\cognodboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.application\\dtos\\recommendationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A03CA80-D147-4D7C-BD1E-2054A28EDECA}|MovieGraph.Application\\MovieGraph.Application.csproj|solutionrelative:moviegraph.application\\dtos\\recommendationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7635036F-0F36-4E13-85CC-470CB2FE4B67}|MovieGraph.Domain\\MovieGraph.Domain.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7635036F-0F36-4E13-85CC-470CB2FE4B67}|MovieGraph.Domain\\MovieGraph.Domain.csproj|solutionrelative:moviegraph.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7635036F-0F36-4E13-85CC-470CB2FE4B67}|MovieGraph.Domain\\MovieGraph.Domain.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.domain\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7635036F-0F36-4E13-85CC-470CB2FE4B67}|MovieGraph.Domain\\MovieGraph.Domain.csproj|solutionrelative:moviegraph.domain\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7635036F-0F36-4E13-85CC-470CB2FE4B67}|MovieGraph.Domain\\MovieGraph.Domain.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.domain\\entities\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7635036F-0F36-4E13-85CC-470CB2FE4B67}|MovieGraph.Domain\\MovieGraph.Domain.csproj|solutionrelative:moviegraph.domain\\entities\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7635036F-0F36-4E13-85CC-470CB2FE4B67}|MovieGraph.Domain\\MovieGraph.Domain.csproj|c:\\users\\dell\\source\\repos\\moviegraph\\moviegraph.domain\\entities\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7635036F-0F36-4E13-85CC-470CB2FE4B67}|MovieGraph.Domain\\MovieGraph.Domain.csproj|solutionrelative:moviegraph.domain\\entities\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Api\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Api\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Api\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MovieGraph.Api\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCgAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T10:41:02.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Application\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Services\\MovieService.cs",
+              "RelativeToolTip": "MovieGraph.Application\\Services\\MovieService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAnwBkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T10:33:23.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Extensions\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Application\\Extensions\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Extensions\\DependencyInjection.cs",
+              "RelativeToolTip": "MovieGraph.Application\\Extensions\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T10:37:57.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Extensions\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Infrastructure\\Extensions\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Extensions\\DependencyInjection.cs",
+              "RelativeToolTip": "MovieGraph.Infrastructure\\Extensions\\DependencyInjection.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T09:39:44.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieRelationshipRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Repositories\\MovieRelationshipRepository.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Infrastructure\\Repositories\\MovieRelationshipRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Repositories\\MovieRelationshipRepository.cs",
+              "RelativeToolTip": "MovieGraph.Infrastructure\\Repositories\\MovieRelationshipRepository.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwFkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T10:57:41.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelationshipQueries.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Queries\\RelationshipQueries.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Infrastructure\\Queries\\RelationshipQueries.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Queries\\RelationshipQueries.cs",
+              "RelativeToolTip": "MovieGraph.Infrastructure\\Queries\\RelationshipQueries.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvy8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T10:56:44.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieRelationshipService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Services\\MovieRelationshipService.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Application\\Services\\MovieRelationshipService.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Services\\MovieRelationshipService.cs",
+              "RelativeToolTip": "MovieGraph.Application\\Services\\MovieRelationshipService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAawBgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T09:02:49.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMovieRelationshipRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Interfaces\\Repositories\\IMovieRelationshipRepository.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Application\\Interfaces\\Repositories\\IMovieRelationshipRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Interfaces\\Repositories\\IMovieRelationshipRepository.cs",
+              "RelativeToolTip": "MovieGraph.Application\\Interfaces\\Repositories\\IMovieRelationshipRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T10:56:03.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMovieRelationshipService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Interfaces\\Services\\IMovieRelationshipService.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Application\\Interfaces\\Services\\IMovieRelationshipService.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Interfaces\\Services\\IMovieRelationshipService.cs",
+              "RelativeToolTip": "MovieGraph.Application\\Interfaces\\Services\\IMovieRelationshipService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T09:02:05.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovieRelationshipGraphDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\DTOs\\MovieRelationshipGraphDto.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Application\\DTOs\\MovieRelationshipGraphDto.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\DTOs\\MovieRelationshipGraphDto.cs",
+              "RelativeToolTip": "MovieGraph.Application\\DTOs\\MovieRelationshipGraphDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T08:53:07.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieRelationshipDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\DTOs\\MovieRelationshipDto.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Application\\DTOs\\MovieRelationshipDto.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\DTOs\\MovieRelationshipDto.cs",
+              "RelativeToolTip": "MovieGraph.Application\\DTOs\\MovieRelationshipDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T08:52:32.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieRelationshipNodeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\DTOs\\MovieRelationshipNodeDto.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Application\\DTOs\\MovieRelationshipNodeDto.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\DTOs\\MovieRelationshipNodeDto.cs",
+              "RelativeToolTip": "MovieGraph.Application\\DTOs\\MovieRelationshipNodeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T08:51:49.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Repositories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Infrastructure\\Repositories\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "MovieGraph.Infrastructure\\Repositories\\MovieRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T10:08:43.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RecommendationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Repositories\\RecommendationRepository.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Infrastructure\\Repositories\\RecommendationRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Repositories\\RecommendationRepository.cs",
+              "RelativeToolTip": "MovieGraph.Infrastructure\\Repositories\\RecommendationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T11:42:24.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Domain\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Domain\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Domain\\Entities\\Movie.cs",
+              "RelativeToolTip": "MovieGraph.Domain\\Entities\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T09:08:08.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MovieQueries.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Queries\\MovieQueries.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Infrastructure\\Queries\\MovieQueries.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Queries\\MovieQueries.cs",
+              "RelativeToolTip": "MovieGraph.Infrastructure\\Queries\\MovieQueries.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T10:24:10.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MovieRecomendationQueries.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Queries\\MovieRecomendationQueries.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Infrastructure\\Queries\\MovieRecomendationQueries.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Queries\\MovieRecomendationQueries.cs",
+              "RelativeToolTip": "MovieGraph.Infrastructure\\Queries\\MovieRecomendationQueries.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T11:44:27.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Api\\Program.cs",
+              "RelativeToolTip": "MovieGraph.Api\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvzIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T09:43:14.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DatabaseSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Seed\\DatabaseSeeder.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Infrastructure\\Seed\\DatabaseSeeder.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Seed\\DatabaseSeeder.cs",
+              "RelativeToolTip": "MovieGraph.Infrastructure\\Seed\\DatabaseSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T11:04:01.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Seed\\SeedData.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Infrastructure\\Seed\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Seed\\SeedData.cs",
+              "RelativeToolTip": "MovieGraph.Infrastructure\\Seed\\SeedData.cs",
+              "ViewState": "AgIAAOABAAAAAAAAAAAAwKgBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T11:03:19.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\DTOs\\MovieDto.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Application\\DTOs\\MovieDto.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\DTOs\\MovieDto.cs",
+              "RelativeToolTip": "MovieGraph.Application\\DTOs\\MovieDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T09:19:12.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DatabaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Api\\Controllers\\DatabaseController.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Api\\Controllers\\DatabaseController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Api\\Controllers\\DatabaseController.cs",
+              "RelativeToolTip": "MovieGraph.Api\\Controllers\\DatabaseController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T09:57:10.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RecommendationController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Api\\Controllers\\RecommendationController.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Api\\Controllers\\RecommendationController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Api\\Controllers\\RecommendationController.cs",
+              "RelativeToolTip": "MovieGraph.Api\\Controllers\\RecommendationController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T11:54:46.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "MovieGraph.Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T15:01:21.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CognoDbHealthCheck.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\HealthChecks\\CognoDbHealthCheck.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Infrastructure\\HealthChecks\\CognoDbHealthCheck.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\HealthChecks\\CognoDbHealthCheck.cs",
+              "RelativeToolTip": "MovieGraph.Infrastructure\\HealthChecks\\CognoDbHealthCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T15:15:20.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "MovieGraph.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T14:18:27.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RecommendationService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Services\\RecommendationService.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Application\\Services\\RecommendationService.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Services\\RecommendationService.cs",
+              "RelativeToolTip": "MovieGraph.Application\\Services\\RecommendationService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAawBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T11:50:19.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MovieGraph.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj",
+              "RelativeToolTip": "MovieGraph.Infrastructure\\MovieGraph.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-27T09:27:33.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Application\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "MovieGraph.Application\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T14:49:14.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MovieGraph.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Api\\MovieGraph.Api.csproj",
+              "RelativeDocumentMoniker": "MovieGraph.Api\\MovieGraph.Api.csproj",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Api\\MovieGraph.Api.csproj",
+              "RelativeToolTip": "MovieGraph.Api\\MovieGraph.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-27T14:41:40.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MovieGraph.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\MovieGraph.Application.csproj",
+              "RelativeDocumentMoniker": "MovieGraph.Application\\MovieGraph.Application.csproj",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\MovieGraph.Application.csproj",
+              "RelativeToolTip": "MovieGraph.Application\\MovieGraph.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-27T09:15:41.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Api\\Models\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Api\\Models\\ErrorResponse.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Api\\Models\\ErrorResponse.cs",
+              "RelativeToolTip": "MovieGraph.Api\\Models\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T14:24:39.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IRecommendationService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Interfaces\\Services\\IRecommendationService.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Application\\Interfaces\\Services\\IRecommendationService.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Interfaces\\Services\\IRecommendationService.cs",
+              "RelativeToolTip": "MovieGraph.Application\\Interfaces\\Services\\IRecommendationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T09:22:12.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MovieGraph.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Domain\\MovieGraph.Domain.csproj",
+              "RelativeDocumentMoniker": "MovieGraph.Domain\\MovieGraph.Domain.csproj",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Domain\\MovieGraph.Domain.csproj",
+              "RelativeToolTip": "MovieGraph.Domain\\MovieGraph.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-27T09:07:30.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IRecommendationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Interfaces\\Repositories\\IRecommendationRepository.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Application\\Interfaces\\Repositories\\IRecommendationRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Interfaces\\Repositories\\IRecommendationRepository.cs",
+              "RelativeToolTip": "MovieGraph.Application\\Interfaces\\Repositories\\IRecommendationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T09:17:53.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CognoDbOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Persistence\\CognoDbOptions.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Infrastructure\\Persistence\\CognoDbOptions.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Persistence\\CognoDbOptions.cs",
+              "RelativeToolTip": "MovieGraph.Infrastructure\\Persistence\\CognoDbOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T09:33:40.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Interfaces\\Services\\IMovieService.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Application\\Interfaces\\Services\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Interfaces\\Services\\IMovieService.cs",
+              "RelativeToolTip": "MovieGraph.Application\\Interfaces\\Services\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T09:21:38.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Interfaces\\Repositories\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Application\\Interfaces\\Repositories\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\Interfaces\\Repositories\\IMovieRepository.cs",
+              "RelativeToolTip": "MovieGraph.Application\\Interfaces\\Repositories\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T09:16:23.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-27T09:50:20.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CognoDbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Persistence\\CognoDbConnection.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Infrastructure\\Persistence\\CognoDbConnection.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Infrastructure\\Persistence\\CognoDbConnection.cs",
+              "RelativeToolTip": "MovieGraph.Infrastructure\\Persistence\\CognoDbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T09:31:55.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RecommendationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\DTOs\\RecommendationDto.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Application\\DTOs\\RecommendationDto.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\DTOs\\RecommendationDto.cs",
+              "RelativeToolTip": "MovieGraph.Application\\DTOs\\RecommendationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T09:20:19.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "MovieGraph.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T09:10:38.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Domain\\Entities\\Genre.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Domain\\Entities\\Genre.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Domain\\Entities\\Genre.cs",
+              "RelativeToolTip": "MovieGraph.Domain\\Entities\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T09:10:01.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Domain\\Entities\\Director.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Domain\\Entities\\Director.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Domain\\Entities\\Director.cs",
+              "RelativeToolTip": "MovieGraph.Domain\\Entities\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T09:09:29.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Domain\\Entities\\Actor.cs",
+              "RelativeDocumentMoniker": "MovieGraph.Domain\\Entities\\Actor.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Domain\\Entities\\Actor.cs",
+              "RelativeToolTip": "MovieGraph.Domain\\Entities\\Actor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T09:08:56.186Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

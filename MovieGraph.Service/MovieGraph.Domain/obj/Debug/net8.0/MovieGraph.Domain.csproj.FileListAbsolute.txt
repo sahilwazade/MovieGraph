@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Domain\bin\Debug\net8.0\MovieGraph.Domain.deps.json
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Domain\bin\Debug\net8.0\MovieGraph.Domain.dll
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Domain\bin\Debug\net8.0\MovieGraph.Domain.pdb
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Domain\obj\Debug\net8.0\MovieGraph.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Domain\obj\Debug\net8.0\MovieGraph.Domain.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Domain\obj\Debug\net8.0\MovieGraph.Domain.AssemblyInfo.cs
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Domain\obj\Debug\net8.0\MovieGraph.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Domain\obj\Debug\net8.0\MovieGraph.Domain.dll
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Domain\obj\Debug\net8.0\refint\MovieGraph.Domain.dll
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Domain\obj\Debug\net8.0\MovieGraph.Domain.pdb
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Domain\obj\Debug\net8.0\ref\MovieGraph.Domain.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5J6B9BJSYY8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\MovieGraph\\MovieGraph.Application\\MovieGraph.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.11\\microsoft.extensions.dependencyinjection.abstractions.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+@MovieGraph.Api_HostAddress = http://localhost:5022
+
+GET {{MovieGraph.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

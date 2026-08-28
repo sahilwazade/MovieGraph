@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Application\bin\Debug\net8.0\MovieGraph.Application.deps.json
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Application\bin\Debug\net8.0\MovieGraph.Application.dll
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Application\bin\Debug\net8.0\MovieGraph.Application.pdb
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Application\bin\Debug\net8.0\MovieGraph.Domain.dll
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Application\bin\Debug\net8.0\MovieGraph.Domain.pdb
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Application\obj\Debug\net8.0\MovieGraph.Application.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Application\obj\Debug\net8.0\MovieGraph.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Application\obj\Debug\net8.0\MovieGraph.Application.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Application\obj\Debug\net8.0\MovieGraph.Application.AssemblyInfo.cs
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Application\obj\Debug\net8.0\MovieGraph.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Application\obj\Debug\net8.0\MovieGra.9F133E5C.Up2Date
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Application\obj\Debug\net8.0\MovieGraph.Application.dll
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Application\obj\Debug\net8.0\refint\MovieGraph.Application.dll
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Application\obj\Debug\net8.0\MovieGraph.Application.pdb
+C:\Users\Dell\source\repos\MovieGraph\MovieGraph.Application\obj\Debug\net8.0\ref\MovieGraph.Application.dll
